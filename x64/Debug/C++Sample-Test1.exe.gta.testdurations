@@ -3,5 +3,9 @@
   <Executable>C:\Users\Seitn\Documents\GitHub\C++Sample-Test1\x64\Debug\C++Sample-Test1.exe</Executable>
   <TestDurations>
     <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="ExampleTests.UnitAddTest" Duration="1" />
+    <TestDuration Test="ExampleTests.UnitMultTest" Duration="1" />
+    <TestDuration Test="ExampleMathTests.UnitAddTest" Duration="1" />
+    <TestDuration Test="ExampleMathTests.UnitMultTest" Duration="1" />
   </TestDurations>
 </GtaTestDurations>

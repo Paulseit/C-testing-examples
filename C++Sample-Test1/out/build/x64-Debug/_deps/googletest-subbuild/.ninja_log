@@ -1,0 +1,21 @@
+# ninja log v5
+2	78	7657082669615934	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	59dd70cfbbda88fa
+2	78	7657082669615934	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	59dd70cfbbda88fa
+79	1644	7657082685262270	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	84e22bef7101e072
+79	1644	7657082685262270	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	84e22bef7101e072
+1644	1715	7657082685974931	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	12cd336bb1105297
+1644	1715	7657082685974931	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	12cd336bb1105297
+1716	1786	7657082686694167	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f30044979f39a371
+1716	1786	7657082686694167	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	f30044979f39a371
+1786	1859	7657082687413437	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	1e3cc720cbfbc58c
+1786	1859	7657082687413437	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	1e3cc720cbfbc58c
+1859	1934	7657082688160367	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5e4f5939e1bb5d15
+1859	1934	7657082688160367	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5e4f5939e1bb5d15
+1934	2007	7657082688897746	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	32f8e75f4f53cd20
+1934	2007	7657082688897746	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	32f8e75f4f53cd20
+2007	2083	7657082689643757	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1c9efb4318af1da3
+2007	2083	7657082689643757	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1c9efb4318af1da3
+2083	2183	7657082690658903	CMakeFiles/googletest-populate-complete	e60048fb6992bddd
+2083	2183	7657082690658903	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e60048fb6992bddd
+2083	2183	7657082690658903	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	e60048fb6992bddd
+2083	2183	7657082690658903	C:/Users/Seitn/Documents/GitHub/C++Sample-Test1/C++Sample-Test1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e60048fb6992bddd
